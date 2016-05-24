@@ -1,2 +1,2 @@
 # Timer
-"Timer" app by Delta Developers Team. 
+"Timer" by Delta Developers Team. 
