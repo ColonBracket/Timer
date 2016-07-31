@@ -1,6 +1,6 @@
 # Timer
 ![alt tag](https://colonbracketstudio.files.wordpress.com/2016/07/icon_512x5122x2.png?w=150&h=150) <br />
-<b>"Timer" for OS X by ColonBracket.</b>
+<b>"Timer" for OS X by ColonBracket.</b> <br />
 © 2016 ColonBracket Studio. All rights reserved.
 
 #Please note:
